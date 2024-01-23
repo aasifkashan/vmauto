@@ -1,0 +1,25 @@
+{
+    "user_assigned_identity_client_id": "c0ff309d-dce3-4ba3-8218-15720b2e83da",
+    "vms": [
+      {
+        "vm_name": "demoweutwork-1",
+        "resource_group_name": "demo_08_test-workstation",
+        "subscription_id": "3574bd4b-7968-4776-b38d-9b81674b5a7f"
+      },
+      {
+        "vm_name": "demoweutcycl-2",
+        "resource_group_name": "demo_07_test-cycle",
+        "subscription_id": "3574bd4b-7968-4776-b38d-9b81674b5a7f"
+      },
+      {
+        "vm_name": "demoweutsche-4",
+        "resource_group_name": "demo_02_provision",
+        "subscription_id": "3574bd4b-7968-4776-b38d-9b81674b5a7f"
+      },
+      {
+        "vm_name": "provisionseed",
+        "resource_group_name": "demo_08_test-workstation",
+        "subscription_id": "3574bd4b-7968-4776-b38d-9b81674b5a7f"
+      }
+    ]
+  }
